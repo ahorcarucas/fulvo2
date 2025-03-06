@@ -1,0 +1,26 @@
+<body> 
+<h1> tipo 1 </h1>
+<h2> tipo 2 </h2>
+<h3> tipo 3 </h3>
+<h4> tipo 4 </h4>
+<h5> tipo 5 </h5>
+<h6> tipo 6 </h6>
+
+<p> juan</p> <br>
+<b> juan </b><br>
+<strong> juan </strong><br>
+<i> juan </i><br>
+<em> juan </em><br>
+<u> juan </u><br>
+<small> juan </small><br>
+<big> juan </big><br>
+<sub> juan </sub><br>
+<sup> juan </sup><br>
+<strike> juan </strike><br>
+<s> juan </s><br>
+<del> juan</del><br>
+
+<right><img src="file:C:\Users\Alumno-08\Videos\Mi web-j\imagenes\toni kross.jpg"></right>
+
+
+ <center><img src="file:C:\Users\Alumno-08\Videos\Mi web-j\imagenes\fondo1.jpg"></center>
